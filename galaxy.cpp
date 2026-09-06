@@ -14,7 +14,7 @@ static int bulge_count = NUM_STARS * 0.15;
 struct Star {
     double x, y;   // Position relative to center
     double vx, vy; // Velocity vectors
-}
+};
 
 static Star stars[NUM_STARS];
 
