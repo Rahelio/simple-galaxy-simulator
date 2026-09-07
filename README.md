@@ -6,3 +6,6 @@ a simple milkyway simluator in c/c++
 
 # Linux
 ``` gcc `pkg-config --cflags --libs gtk4` -o galaxy galaxy.cpp -lm ```
+
+### To run
+./galaxy
